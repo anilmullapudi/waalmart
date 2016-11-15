@@ -21,6 +21,8 @@ usage:
    
    enter price of item or -99:rollback -100:quit
    300
+   
    Enter roomate id's  1-Anurag, 2-Anil, 3-Abhinay, 4-Bhushan, 5-Srikesh
    a-all
+   
    123   #That's it, the price is now shared between Anurag, Ani, and Abhinay.
