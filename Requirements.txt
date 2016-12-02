@@ -1,3 +1,5 @@
+The following are the new additional requriements for existing application.
+
 1. Sort the prices while displaying individual totals
 2. Option for sharing 2/3 rd of the bill
 3. subtracting amount from individual bill at anypoint of time.
