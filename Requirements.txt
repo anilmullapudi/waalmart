@@ -1,0 +1,4 @@
+1. Sort the prices while displaying individual totals
+2. Option for sharing 2/3 rd of the bill
+3. subtracting amount from individual bill at anypoint of time.
+4. vegetarian and non-vegetarian option.
